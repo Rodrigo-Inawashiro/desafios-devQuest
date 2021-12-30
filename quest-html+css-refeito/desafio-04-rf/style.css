@@ -6,6 +6,10 @@
     background-color: #00C4B4;
 }
 
+body{
+    margin: 100px;
+}
+
 td {
     background-color: #424250;
     padding: 10px;
